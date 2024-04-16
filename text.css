@@ -1,0 +1,128 @@
+.body{
+    background:silver;
+   
+ }
+ .row{
+   /*border: 1px solid red;*/
+   margin:5px auto ;
+ }
+ #container{
+   width: 100%;
+   margin: 0 auto;/*为了让div在浏览器中水平居 中*/
+ }
+ #header{
+   text-align: center;
+   height: 57;
+   background-size: cover;
+   border: 1px solid black;
+   margin: 10px;
+   color: white;
+   font-family:Lobster;  
+   background:url(./arkaplan.jpeg) 50%
+    
+    
+   
+ }
+ a:link{color: white;}
+ a:visited {color:#263238;}
+ a:hover {color:#2979FF;
+       text-decoration:none;}
+ a.link:link{color:white;}
+ a.link:visited {color:white;}
+ a.link:hover {font-size:120%;
+           color:#2979FF;
+           text-decoration: none;}
+           .col-md-6 a {
+            text-decoration: none;
+            margin-right: 20px;
+           }
+           
+  .sağyazı p {
+   font-family:cursive;
+   font-size:x-large
+ }
+ .article1 p a{
+    text-align: right;
+ }
+ button {
+     margin: 5px 5px;
+ }
+ h2{
+ font-family:Monospace;
+ }
+  h1{
+    font-size: 35px;
+    text-align: center;
+   
+ }
+ img {
+  margin: 40px 0px 0px 0px;
+  border: 3px solid white;
+  border-radius: 20px;
+}
+ img{
+   margin:120px 40px;
+   border: 2px inset #E0F7FA;
+   margin-top: 120px;
+   margin-bottom: 50px;
+   margin-left: 40px;
+   margin-right: 40px;
+ }
+ #image{
+   margin:5px 200px;
+ }
+ .header1{
+   /*border: 1px solid red;*/
+   margin: 0px 0px;
+   height: 60px;
+   padding: 20px 20px; 
+   background:#0cd4c7;
+   position:fixed; 
+   top:0; 
+   left:0; 
+   width:100%; 
+   z-index:2; 
+ }
+ .header2{
+   /*border: 1px solid red;*/
+   margin:5px 5px;
+   height: 300px;
+ }
+ #section{
+  /* border: 1px solid black;*/
+   margin: 20px 10px;
+   height:2400px;
+ }
+ #article{
+  /* border: 1px solid red;*/
+   width:62%;
+   margin:5px 15px;
+   float: left;
+ }
+ .sağyazı{
+ /*  border: 1px solid yellow;*/
+   margin:auto 5px;
+   height:593px;
+   width: 800;
+   text-align: justify;}
+
+   .solresim{
+    float: left;
+    padding: 0 0 0 0;
+    margin-top: 40px;
+ }
+ 
+ #aside{
+  /* border: 1px solid red;*/
+   width:32%;
+   margin:5px 15px;
+   float: right;
+ }
+ .aside1{
+   /*border: 1px solid yellow;*/
+   margin: auto 5px;
+   height: 792px; 
+   text-align: left;
+   font-size: x-large;
+ }
+
